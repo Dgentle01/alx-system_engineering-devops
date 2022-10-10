@@ -1,1 +1,1 @@
-Script creates file named \*\'Best School\'\*$\?\*\*\*\*\*:) with BEST School written to it
+Saves current file or overwrites it if exists already
