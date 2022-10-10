@@ -1,1 +1,1 @@
-This script creates a script that displays the 10 newest files in the current directory sorted from new to old
+This creates a script that takes a list of words as input and prints only words that appears exactly once
