@@ -1,1 +1,1 @@
-Prints Confused Smiley
+Script displays content of etc/passwd file
