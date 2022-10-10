@@ -1,1 +1,1 @@
-This script count the numbr of directories and sub-directoried in the current directory
+This script creates a script that displays the 10 newest files in the current directory sorted from new to old
