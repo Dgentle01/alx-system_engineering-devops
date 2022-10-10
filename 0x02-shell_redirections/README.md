@@ -1,1 +1,1 @@
-This script duplicates the last line of the file iacta
+This script deletes all the .js extension files availale in current directory
