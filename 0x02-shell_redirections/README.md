@@ -1,1 +1,1 @@
-This script deletes all the .js extension files availale in current directory
+This script count the numbr of directories and sub-directoried in the current directory
