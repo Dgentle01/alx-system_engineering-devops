@@ -1,1 +1,1 @@
-This script prints out the third line of the iacta file
+Script creates file named \*\'Best School\'\*$\?\*\*\*\*\*:) with BEST School written to it
