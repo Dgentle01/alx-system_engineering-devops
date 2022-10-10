@@ -1,1 +1,1 @@
-Saves current file or overwrites it if exists already
+This script duplicates the last line of the file iacta
