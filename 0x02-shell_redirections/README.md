@@ -1,1 +1,1 @@
-Display the number of lines that contain the pattern “bin” in the file /etc/passwd
+Scripts to work with the git session
